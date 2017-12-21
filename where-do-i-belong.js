@@ -6,4 +6,4 @@ function getIndexToIns(arr, num) {
   return arr.indexOf(num);
 }
 
-getIndexToIns([40, 60], 50);
+getIndexToIns([40, 60], 50); 
